@@ -8,7 +8,7 @@ Email: d.dais@pl.hanze.nl
 ResearchGate: https://www.researchgate.net/profile/Dimitris_Dais2  
 Research Group Page: https://www.linkedin.com/company/earthquake-resistant-structures-promising-groningen  
 
-A YouTube video-tutorial can be found in the following link: https://youtu.be/E9k-A8daess  
+A YouTube video-tutorial can be found in the following link: https://youtu.be/PjoLMIsYNzA 
 
 If you use the code, please refer to the GitHub repository.
 
@@ -19,6 +19,7 @@ https://www.researchgate.net/publication/326033414_Differences_between_Induced_a
 
 **Comparison of polarity in Groningen data with that of other natural and induced seismicity records, and implications in hazard and risk models**  
 https://www.researchgate.net/publication/328974370_Comparison_of_polarity_in_Groningen_data_with_that_of_other_natural_and_induced_seismicity_records_and_implications_in_hazard_and_risk_models 
+https://doi.org/10.1007/s10518-018-0517-3
 
 # get_events.py  
 Code to get earthquake events from 2010-01-01 until 2020-04-25 from the Netherlands  
